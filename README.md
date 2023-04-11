@@ -1,5 +1,7 @@
+[![MasterHead](https://media.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif)]
 <h1 align="center">Hi 👋, I'm Rituraj Paul, a.k.a laughing-nerd</h1>
 <h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3>
+<img src="https://img.freepik.com/free-icon/linux_318-225756.jpg" alt="Image" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="laughing-nerd" /> </p>
 
