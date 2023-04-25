@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **riturajpaul99@gmail.com**
 
-- ⚡ Fun fact **I like to play Minecraft and eat ice-cream.**
+- ⚡ Fun fact **I like to chase pigs in Minecraft.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
