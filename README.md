@@ -24,6 +24,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laughing-nerd&show_icons=true&locale=en&layout=compact" alt="laughing-nerd" /></p>-->
 
+<!--<p style="text-align:center"><img src = "https://github-readme-stats.vercel.app/api?username=laughing-nerd&show_icons=true&locale=en&theme=radical" alt = "laughing-nerd-stats" /></p>-->
 <p style="text-align:center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=laughing-nerd&theme=radical" alt = "laughing-nerd-streak" /></p>
 
 
