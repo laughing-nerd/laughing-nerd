@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **golang**
 
-- 💬 Ask me about **Linux, vim, React, Python, Networking**
+- 💬 Ask me about **Linux, vim, React, Networking**
 
 - ⚡ Fun fact **I like to chase pigs in Minecraft.**
 
