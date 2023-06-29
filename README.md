@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing-nerd&label=Profile%20views&color=blue&style=for-the-badge" alt="laughing-nerd" /> </p>
 
-- 🔭 I’m currently working on [Wordict](https://github.com/laughing-nerd/wordict)
+- 🔭 I’m currently working on [Cowie](https://github.com/laughing-nerd/Cowie)
 
 - 🌱 I’m currently learning **Neovim**
 
