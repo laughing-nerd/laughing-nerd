@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Cowie](https://github.com/laughing-nerd/Cowie)
 
-- 🌱 I’m currently learning **Neovim**
+- 🌱 I’m currently learning **Go**
 
-- 🤝 I’m looking for help with **golang**
+- 🤝 I’m looking to collaborate on **React projects**
 
-- 💬 Ask me about **Linux, vim, React, Networking**
+- 💬 Ask me about **Linux, React, Networking**
 
 - ⚡ Fun fact **I like to chase pigs in Minecraft.**
 <br />
