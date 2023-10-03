@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on [make-rest-api](https://github.com/laughing-nerd/make-rest-api)
 
-- 🌱 I love **Neovim**
+- ❤️ I love **Neovim**
 
 - 🤝 I’m looking to collaborate on **Next.js projects**
 
 - 💬 Ask me about **Linux, React, Next.js, Backend, Networking**
 
-- ⚡ Fun fact **I like to chase pigs in Minecraft.**
 <br />
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="center">Connect with me</h3>
