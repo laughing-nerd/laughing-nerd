@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **Next.js projects**
 
-- 💬 Ask me about **Linux, React, Next.js, Backend, Networking**
+- 💬 Ask me about **Linux, React, Next.js, Backend, Networking, Go**
 
 <br />
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
