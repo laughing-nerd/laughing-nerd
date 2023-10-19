@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing-nerd&label=Profile%20views&color=blue&style=for-the-badge" alt="laughing-nerd" /> </p>
 
-- 🔭 I’m currently working on [make-rest-api](https://github.com/laughing-nerd/make-rest-api)
+- 🔭 I’m currently looking to collaborate on open-source projects
 
 - ❤️ I love **Neovim**
 
