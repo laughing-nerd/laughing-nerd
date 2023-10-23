@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 <h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing-nerd&label=Profile%20views&color=blue&style=for-the-badge" alt="laughing-nerd" /> </p>
+[![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently looking to collaborate on open-source projects
 
