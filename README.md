@@ -3,13 +3,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently looking to collaborate on open-source projects
+**Few things about me**
 
 - ❤️ I love **Neovim**
 
 - 🤝 I’m looking to collaborate on **Next.js projects**
 
-- 💬 Ask me about **Linux, React, Next.js, Backend, Networking, Go**
+- 💬 Ask me about **Linux, Next.js, Backend, Networking, Go**
 
 <br />
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
