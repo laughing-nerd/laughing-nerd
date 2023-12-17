@@ -4,6 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 **Few things about me**
+- 🔭 I am learning **Rust**
 
 - ❤️ I love **Neovim**
 
