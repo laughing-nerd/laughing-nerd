@@ -24,7 +24,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h3 align="center">Languages and Tools I use</h3>
+<h3 align="center">Languages and Tools I am familiar with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=appwrite,astro,bootstrap,c,cpp,css,docker,figma,firebase,git,github,go,html,java,js,jquery,linux,lua,mongodb,mysql,neovim,nextjs,nodejs,prisma,pug,py,react,redux,regex,tailwind,typescript,vim,vscode" />
