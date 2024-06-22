@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3>
+
+<!-- <h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3> -->
+![city-scape](https://github.com/laughing-nerd/laughing-nerd/assets/90846840/42d674ac-fdae-4fdb-9efa-a6cf82423210)
 
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
