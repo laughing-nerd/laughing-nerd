@@ -4,7 +4,6 @@
 
 <img align="right" src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" width="150"/>
 
-  **Few things about me**
 - 🔭 I am learning **Zig**
 - ❤️ I am a **Neovim**-paglu
 - 🤝 I’m looking to collaborate on **Go projects**
