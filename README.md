@@ -1,17 +1,13 @@
 <h1 align="center">Hello there 👋</h1>
 
 <!-- <h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3> -->
-![city-scape](https://github.com/laughing-nerd/laughing-nerd/assets/90846840/42d674ac-fdae-4fdb-9efa-a6cf82423210)
 
-[![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<img align="right" src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" width="150"/>
 
-**Few things about me**
+  **Few things about me**
 - 🔭 I am learning **Zig**
-
-- ❤️ I love **Neovim**
-
+- ❤️ I am a **Neovim**-paglu
 - 🤝 I’m looking to collaborate on **Go projects**
-
 - 💬 Ask me about **Linux, Backend, Networking, Go**
 
 <br />
@@ -39,4 +35,3 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=laughing-nerd&show_icons=true&locale=en&theme=radical" alt = "laughing-nerd-stats" />
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=laughing-nerd&theme=radical" alt = "laughing-nerd-streak" />
 </div>
-
