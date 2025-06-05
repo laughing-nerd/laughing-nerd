@@ -6,13 +6,13 @@
 [![](https://visitcount.itsvg.in/api?id=laughing-nerd&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 **Few things about me**
-- 🔭 I am learning **Rust**
+- 🔭 I am learning **Zig**
 
 - ❤️ I love **Neovim**
 
-- 🤝 I’m looking to collaborate on **Next.js projects**
+- 🤝 I’m looking to collaborate on **Go projects**
 
-- 💬 Ask me about **Linux, Next.js, Backend, Networking, Go**
+- 💬 Ask me about **Linux, Backend, Networking, Go**
 
 <br />
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
