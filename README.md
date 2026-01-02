@@ -2,6 +2,8 @@
 
 <!-- <h3 align="center">I am a fervent learner whose curiosity knows no bounds and whose hands itch to tinker with any object or idea within sight.</h3> -->
 
+<h3>You can also check out my alt account [rxj18](https://github.com/rxj18)</h3>
+
 <img align="right" src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" width="150"/>
 
 - 🔭 I am learning **Zig**
